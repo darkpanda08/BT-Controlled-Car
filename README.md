@@ -1,4 +1,4 @@
-# BT-Controlled-Car
+# BT Controlled Car
 This script is for Controlling a Bluetooth Controlled Car. It consists of Arduino, L293D Motor Driver and HC-06 Module. The connection is made as shown in the diagram. 
 
 Connect yor phone or PC with the HC-06 through Bluetooth and open any Bluetooth terminal available on Play Store(Android), App Store(iOS) or Windows Store to send commands to the Arduino.
