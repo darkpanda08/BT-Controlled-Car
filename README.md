@@ -3,7 +3,7 @@ This script is for Controlling a Bluetooth Controlled Car. It consists of Arduin
 
 Connect yor phone or PC with the HC-06 through Bluetooth and open any Bluetooth terminal available on Play Store(Android), App Store(iOS) or Windows Store to send commands to the Arduino.
 
-##Following are some apps tested with this code, other apps will also work.
+## Following are some apps tested with this code, other apps will also work.
 * Android App: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
 * iOS App: 
 * Windows Phone App: https://www.microsoft.com/store/productId/9WZDNCRDFST8
